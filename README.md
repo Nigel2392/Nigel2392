@@ -9,11 +9,11 @@ For any other questions, requests or just simple banter - send me an e-mail at [
 * Support Employee
 * Web (app) developer.
 
-## Experience in languages
-* Python
-* Python[Django]
-* Python[Wagtail]
+## Experience with languages, tools and frameworks
+* Python [Django, Wagtail and more.]
 * Golang
 * HTML, CSS
 * Javascript
 * Typescript
+* Docker
+* MySQL

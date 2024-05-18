@@ -11,7 +11,7 @@ For any other questions, requests or just simple banter - send me an e-mail at [
 
 ## Experience with languages, tools and frameworks
 * Python [Django, Wagtail and more.]
-* Golang
+* Golang (Server, CLI and GUI applications)
 * HTML, CSS
 * Javascript
 * Typescript

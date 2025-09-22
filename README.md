@@ -16,4 +16,4 @@ For any other questions, requests or just simple banter - send me an e-mail at [
 * Javascript
 * Typescript
 * Docker
-* MySQL
+* MySQL, SQLite, Postgres
